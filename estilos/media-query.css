@@ -22,11 +22,20 @@
     }
 
     div#form > h1 {
-        font-size: 1.5em;
+        font-size: 1.8em;
     }
 
     div#form > p {
         font-size: 1em;
+        margin: 12px 0px 18px 0px;
+    }
+
+    section#login {
+        height: 320px;
+    }
+
+    form > input[type=submit] {
+        margin-top: 12px;
     }
 }
 
@@ -37,6 +46,7 @@
 
     section#login {
         width: 950px;
+        height: 450px;
     }
 
     section#login > div#imagem {
@@ -57,5 +67,27 @@
 
     div#form > p {
         font-size: 1.2em;
+        text-align: center;
+        margin: 5px 0px 45px 0px;
+    }
+
+    form > a.botao {
+        margin: auto;
+        margin-top: 5px;
+        width: 75%;
+        height: 32px;
+    }
+
+    form > input[type=submit] {
+        margin: auto;
+        width: 75%;
+        margin-top: 20px;
+        height: 40px;
+    }
+
+    form > div.campo {
+        width: 75%;
+        margin: auto;
+        margin: 5px auto;
     }
 }
