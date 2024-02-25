@@ -70,7 +70,7 @@ form > div.campo {
     background-color: #2c4761;
     display: block;
     width: 100%;
-    height: 40px;
+    height: 42px;
     border-radius: 5px;
     margin: 5px 0px;
 }
@@ -96,11 +96,11 @@ div.campo > input {
     background-color: #22394e;
     font-size: 1em;
     width: calc(100% - 41px);
-    height: 100%;
+    height: 97%;
     border: 0px;
     border-radius: 5px;
     padding: 4px;
-    transform: translateY(-7px);
+    transform: translateY(-6px);
 }
 
 form > input[type=submit] {
@@ -142,5 +142,6 @@ form > a.botao:hover {
 
 form > a.botao > span {
     font-size: 1em;
+    transform: translateY(2px);
 }
 

@@ -37,6 +37,7 @@
     form > input[type=submit] {
         margin-top: 12px;
     }
+
 }
 
 @media screen and (min-width: 992px) {
