@@ -100,7 +100,7 @@ div.campo > input {
     border: 0px;
     border-radius: 5px;
     padding: 4px;
-    transform: translateY(-6px);
+    transform: translateY(-7px);
 }
 
 form > input[type=submit] {
